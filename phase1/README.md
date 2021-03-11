@@ -63,7 +63,7 @@ Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a su
 
 ** In case unable to access online links **
 - Questionnaire
-	- [Google Form PDF](Task_Time Management Application Survey - Google Forms.pdf)
+	- ![Google Form PDF](Task_Time Management Application Survey - Google Forms.pdf)
 - Contextual Inquiry
-	- [Google Doc PDF](Contextual Inquiry.pdf)
-	- [Google Form PDF](Mock Contextual inquiry - Google Forms.pdf)
+	- ![Google Doc PDF](Contextual Inquiry.pdf)
+	- ![Google Form PDF](Mock Contextual inquiry - Google Forms.pdf)
