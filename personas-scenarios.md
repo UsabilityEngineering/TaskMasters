@@ -12,7 +12,7 @@
 
 ## Sarah : Age 25
 
-**Bio** - Sarah is a partime student and a full time employee at a grocery store. She is independant and lives in a one bedroom apartment alone.
+**Bio** - Sarah is a part time student and a full time employee at a grocery store. She is independent and lives in a one bedroom apartment alone.
 
 **Frustrations** - Since Sarah is very busy with work and school it leads to disorganization and forgetfulness of school work.
 
