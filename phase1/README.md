@@ -60,5 +60,10 @@ Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a su
 	- [Link to Google Doc](https://docs.google.com/document/d/1Tz0YjWvLdbRGgQ8WHxKwUjXjNnJLFKO1Z8FY0ALi9gw/edit?usp=sharing)
 	- [Link to Google Form](https://docs.google.com/forms/d/12KwSYgSGlowxffb6nTaRtv-ZSptmFBMLAR72mELSnPo/edit?usp=sharing)
 
+
 ** In case unable to access online links **
-### Method PDF documents
+- Questionnaire
+	- [Google Form PDF](Task_Time Management Application Survey - Google Forms.pdf)
+- Contextual Inquiry
+	- [Google Doc PDF](Contextual Inquiry.pdf)
+	- [Google Form PDF](Mock Contextual inquiry - Google Forms.pdf)
