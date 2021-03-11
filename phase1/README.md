@@ -4,22 +4,41 @@ Project: Task Management System
 
 ## Methods
 - Investigated user-reported methods of task management
-  - Gathered first-hand accounts of systems currently employed
-	- Solution will magnify strengths and minimize weaknesses of current systems
-- Contextual Inquiry with potential customers (n=5) revealed commonly used systems’ strengths
-- Online Survey collected demographic information from potential customers (n=20)
+  - Gathered **first-hand accounts** of systems currently employed
+  - Solution will **magnify strengths and minimize weaknesses** of current systems
+- **Contextual Inquiry** with potential customers (n=5) revealed commonly used systems’ strengths
+- **Online Survey** collected demographic information from potential customers (n=20)
 
 ## Findings
-
-
+-	Majority (95%) of **survey respondents** are **full-time students**
+	- 57% of full-time students **do not use** a task manager
+	- Full time students think a task management system **will improve daily life** (M=15.6,sd=4.2)
+- Potential customers who **use task management systems** consider themselves to be organized
+	- Potential customers who use task management **are organized** (M=6.2, sd=3.5)  vs those who don’t (M=7.4, sd=3.5)
+	- Potential customers who use task management think it will improve daily life(M=7.4,sd=4.1)
+- Potential customers who **do not use task management systems** think it will **improve daily life**	
+	- 55% of potential customers do not use task management vs 45% of potential customers do not use task management
+	- Potential customers who do not use task management think that it will improve daily life (M=9.2,sd=4.2)
+- Using **contextual inquiry** determined **commonly used time management tools and their strengths** 
+	- 100% of respondents **use a software tool to manage their tasks** - 40% use Trello, 40% use Sticky Notes, and 20% uses Notion
+	- Sticky notes strengths - allows users to organize tasks, cross off/delete completed tasks, can sync between all microsoft devices 
+	- Notion strengths - ideal for note taking, organizing, and creating schedules
+	- Trello weakness - Not very user friendly
 
 ## Conclusions
-
-
+- From our **online survey** and **contextual inquiry** we discovered valuable information that will help us with our design
+	- Will **improve quality of life** for users by providing **safety** through preventing disorganization because based on our survey results we found that most potential
+		customers think task management would improve their daily life
+	- Our product is **useful to anyone regardless of their schedule complexity** and based on our survey results we found that our potential users are **students, employees, 				parents, athlete/fitness, and personal business owners**
+	- Provide an easy to use user interface that is **learnable, error tolerant, and  memorable** because in our contextual inquiry we found that other time management tools(ex: 		Trello) were **not very user friendly**.
+	- Features will be **efficient and satisfying** by making it easy to schedule tasks through **providing good feedback** because we learned from our contextual inquiry user’s 		like how easy it is to schedule tasks and mark them completed in the software tools they use
+	- Product will have **effective features** just like others on the market so a feature will be added to **sync tasks between multiple devices** because we learned from our
+	  contextual inquiry user’s liked that Microsoft sticky notes syncs between all Microsoft devices
 
 ## Caveats
-
-
+- Contextual inquiry **method limitations**
+	- Only able to get data from 5 users therefore we were only about to get information about 3 task management tools instead of a bigger range
+	- Initial assumptions were that were were going to get many strengths and weaknesses of other tools but we only able to get descriptions of strengths not really weaknesses
 
 ## Supplementary Materials
 
