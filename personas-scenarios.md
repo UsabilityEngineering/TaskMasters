@@ -5,13 +5,17 @@
 ## John : Age 20
 
 **Bio** - A student and part time employee at a coffee shop near his home, who is constantly in motion. Lives with roommates that share household responsibilities and enjoys spending time gaming online with friends. Still dependent on parents for financial support occasionally.
+
 **Frustrations** - Forgetfulness and lack of a system leads to conflict with roommates, neglecting assignments, and having to switch shifts with co-workers last minute. If he has to forfeit the shift, he won’t earn pay for it.
+
 **Needs/Motivations** - Organization and structure to be more productive, earn more money, and free up valuable relaxation time. He really wants to be more independent but doesn’t know quite how to get there.
 
 ## Sarah : Age 25
 
 **Bio** - Sarah is a partime student and a full time employee at a grocery store. She is independant and lives in a one bedroom apartment alone.
+
 **Frustrations** - Since Sarah is very busy with work and school it leads to disorganization and forgetfulness of school work.
+
 **Needs/Motivations** - Needs more organization and a place to manage her tasks she has to do so that way she doesn't forget about any school work has due, therefore a task management system will make it easier for Sarah to balance school and work and relieve stress.
 
 # Scenarios
