@@ -38,9 +38,13 @@ Project: Task Management System
 	  contextual inquiry user’s liked that Microsoft sticky notes syncs between all Microsoft devices
 
 ## Caveats
-- Contextual inquiry **method limitations**
+- **Contextual inquiry method limitations**
 	- Only able to get data from 5 users therefore we were only about to get information about 3 task management tools instead of a bigger range
-	- Initial assumptions were that were were going to get many strengths and weaknesses of other tools but we only able to get descriptions of strengths not really weaknesses
+	- Initial assumptions were that were were going to get many strengths and weaknesses of other tools but we only were able to get descriptions of strengths and not really 
+		weaknesses
+- **Online survey method limitations**
+	- Our survey results told us that our data was heavily skewed for our potential user's schedule complexities (95% full time students)
+	- Initial assumptions were that we were going to recieve a wide range of schedule complexites from our users
 
 ## Supplementary Materials
 
