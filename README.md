@@ -4,7 +4,7 @@ The problem space is that task and time management is difficult for a lot of peo
 
 ## Team Members
 
-* **Felicia Cruz** - Summary of contributions
+* **Felicia Cruz** - Summarized our findings, conclusions, caveats, and helped with personas
 * **Anthony Brackett** - Summary of contributions
 * **Joseph Macam** - Summary of contributions
 
