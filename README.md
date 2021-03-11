@@ -1,6 +1,6 @@
-# Replace this with the Project Name
+# Task Management System
 
-Replace this text with a brief introduction to the problem space.
+The problem space is that task and time management is difficult for a lot of people, especially when they have multi-layered schedules and responsibilities in their personal life, work life, education, and their various other commitments.
 
 ## Team Members
 
