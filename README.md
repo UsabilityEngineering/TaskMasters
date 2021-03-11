@@ -4,9 +4,9 @@ The problem space is that task and time management is difficult for a lot of peo
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
-* **Full Name 3** - Summary of contributions
+* **Felicia Cruz** - Summary of contributions
+* **Anthony Brackett** - Summary of contributions
+* **Joseph Macam** - Summary of contributions
 
 # User-Centered Design Artifacts
 
