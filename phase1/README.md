@@ -1,5 +1,7 @@
 # Task Masters, Phase 1: Requirements Gathering
+
 Group Members: Felicia Cruz, Joseph Macam, and Anthony Brackett
+
 Project: Task Management System
 
 ## Methods
