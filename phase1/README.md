@@ -1,8 +1,13 @@
-# Team Name, Phase 1: Requirements Gathering
+# Task Masters, Phase 1: Requirements Gathering
+Group Members: Felicia Cruz, Joseph Macam, and Anthony Brackett
+Project: Task Management System
 
 ## Methods
-
-
+- Investigated user-reported methods of task management
+  - Gathered first-hand accounts of systems currently employed
+	- Solution will magnify strengths and minimize weaknesses of current systems
+- Contextual Inquiry with potential customers (n=5) revealed commonly used systems’ strengths
+- Online Survey collected demographic information from potential customers (n=20)
 
 ## Findings
 
