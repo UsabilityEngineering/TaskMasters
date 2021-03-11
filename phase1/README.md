@@ -53,11 +53,12 @@ Project: Task Management System
 
 Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc) as PDF documents.
 
-Questionnaire
+### Online Links to our Methods
+- Questionnaire
 	- [Link to our Google Form](https://docs.google.com/forms/d/1puPeeFRknnlRoaHGtm3nSBb97GexRfmaPRq7MXM0rEE/edit?usp=sharing)
-Contextual Inquiry
+- Contextual Inquiry
 	- [Link to Google Doc](https://docs.google.com/document/d/1Tz0YjWvLdbRGgQ8WHxKwUjXjNnJLFKO1Z8FY0ALi9gw/edit?usp=sharing)
 	- [Link to Google Form](https://docs.google.com/forms/d/12KwSYgSGlowxffb6nTaRtv-ZSptmFBMLAR72mELSnPo/edit?usp=sharing)
 
-
-
+** In case unable to access online links **
+### Method PDF documents
