@@ -24,7 +24,9 @@ The problem space is that task and time management is difficult for a lot of peo
 
 # Phase 2: Interaction Design
 
-*Coming Soon*
+* Executive Summary of work,
+* wireframe with justifications,
+* and a prototype draft
 
 [Full phase 2 report](phase2/)
 
