@@ -20,8 +20,9 @@ Week Days Selection        |  Settings Sidebar
 ![Manage Accounts](../assets/Manage_Accounts.png)<br/>
 
 ### Day's Task List
-![Dav View](../assets/Day_view.png)<br/>
-![Day View Expanded](../assets/Day_view_expanded.png)<br/>
+Day View                   |  Individual Task Expansion
+:-------------------------:|:-------------------------:
+![Dav View](../assets/Day_view.png)<br/> | ![Day View Expanded](../assets/Day_view_expanded.png)<br/>
 
 ### Task Creation
 ![Task Creation](../assets/Create_task.png)<br/>
