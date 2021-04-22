@@ -11,7 +11,15 @@ Project: Task Management System
 
 ## Wireframe Artboards 
 
-***coming soon***
+### Week Days Selection (Main landing page)
+
+### Multiple Account Management
+
+### Day's Task List
+
+### Task Creation
+
+### Day's Kanban
 
 ## Supplementary Materials
 
