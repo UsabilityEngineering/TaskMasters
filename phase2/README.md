@@ -32,4 +32,4 @@ Day View                   |  Individual Task Expansion
 
 ## Supplementary Materials
 
-*** links go here ***
+*** Adobe XD Prototype link goes here ***
