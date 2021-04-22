@@ -11,8 +11,8 @@ The problem space is that task and time management is difficult for a lot of peo
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](#)
-* [Prototype](#)
+* [Wireframes](https://xd.adobe.com/view/1db9ead2-34be-4b91-ba7c-0afac8078824-48ea/)
+* [Prototype](https://xd.adobe.com/view/1db9ead2-34be-4b91-ba7c-0afac8078824-48ea/) draft
 
 # Phase 1: Requirements Gathering
 
