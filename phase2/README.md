@@ -12,8 +12,9 @@ Project: Task Management System
 ## Wireframe Artboards 
 
 ### Week Days Selection (Main landing page)
-![Week Days Selection](../assets/Main_landing_page.png)<br/>
-![Settings Sidebar](../assets/Settings_sidebar.png)<br/>
+Week Days Selection        |  Settings Sidebar
+:-------------------------:|:-------------------------:
+![Week Days Selection](../assets/Main_landing_page.png)<br/> | ![Settings Sidebar](../assets/Settings_sidebar.png)<br/>
 
 ### Multiple Account Management
 ![Manage Accounts](../assets/Manage_Accounts.png)<br/>
