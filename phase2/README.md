@@ -10,7 +10,7 @@ Project: Task Management System
 * Using the wireframe, we began development of the interactive prototype using Adobe XD.
 
 ## Wireframe Artboards 
-Note: The justifications should relate back to Phase 1 Scenarios/Personas
+
 ### Week Days Selection (Main landing page)
 Our main landing page shows will allow our user to view their schedules for the week. They can  choose which date from the to do list they would like to view, switch between multiple accounts, and access our navigation menu. Referring to our data we gathered from our contextual inquiry a key take away we found was that our user’s prefer using task management systems that are learnable and easy to use. In addition, we found that our personas (Sarah and John) were in need of a task management system that will allow them to stay organized and provide structure. Therefore, we created our main landing page to be very straight forward and unambiguous making it easy for our user’s to find their to-do lists and switch between accounts.<br/>
 
@@ -40,4 +40,5 @@ Our Day Kanban view will allow our user’s to view their tasks but in a Kanban 
 
 ## Supplementary Materials
 
-*** Adobe XD Prototype link goes here ***
+* [Wireframes](https://xd.adobe.com/view/1db9ead2-34be-4b91-ba7c-0afac8078824-48ea/)
+* [Prototype](https://xd.adobe.com/view/1db9ead2-34be-4b91-ba7c-0afac8078824-48ea/) draft
