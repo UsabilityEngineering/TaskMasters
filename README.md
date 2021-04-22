@@ -5,8 +5,8 @@ The problem space is that task and time management is difficult for a lot of peo
 ## Team Members
 
 * **Felicia Cruz** - Summarized our findings, conclusions, caveats, and helped with personas
-* **Anthony Brackett** - Wireframe creation, Adobe XD Prototype drafting
-* **Joseph Macam** - Summary of contributions
+* **Anthony Brackett** - Summary of contributions
+* **Joseph Macam** - Wireframe drafting, Adobe XD Prototype drafting 
 
 # User-Centered Design Artifacts
 
