@@ -32,8 +32,10 @@ The problem space is that task and time management is difficult for a lot of peo
 
 # Phase 3: Usability Evaluation
 
-* Executive Summary of work,
-* protocol with explanations,
-* and a final prototype
+## Executive Summary
+
+* We designed a protocol to use for our our usabilty test.
+* We created a spreadsheet that we will use to store data collected during our usability test.
+* We converted our wireframe into an interactive prototype using Adobe XD.
 
 [Full phase 3 report](phase3/)
