@@ -4,7 +4,7 @@ The problem space is that task and time management is difficult for a lot of peo
 
 ## Team Members
 
-* **Felicia Cruz** - Summarized our findings, conclusions, caveats, and helped with personas
+* **[Felicia Cruz](https://usabilityengineering.github.io/ux-portfolio-FeliciaCruz-24/)** - Worked on final protype, helped with protocol, protocol explanations
 * **Anthony Brackett** - Concept, wireframe, and prototype drafting 
 * **Joseph Macam** - Wireframe drafting, Adobe XD Prototype drafting 
 
@@ -32,6 +32,8 @@ The problem space is that task and time management is difficult for a lot of peo
 
 # Phase 3: Usability Evaluation
 
-*Coming Soon*
+* Executive Summary of work,
+* protocol with justifications,
+* and a final prototype
 
 [Full phase 3 report](phase3/)
