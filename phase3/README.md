@@ -53,7 +53,7 @@ This question will gain information about what the participant thinks of specifi
 This question is to gain any additional thoughts the user may have that we might not have covered during the evaluation.
 
 ## Overall Approach of Study
-*Coming Soon*
+For this Usability Test study, our goals are to gauge the efficiency and effectiveness of using this app for task management, gauge the error recovery and tolerance when using this app, and to determine the overall utility/usefullness of this app for our user's daily task management. Because of this, we went with a formmative approach in which we focus on **how** the user is using the app. We have also gone with the think-aloud approach since our study is interested in our participant's though process while going through the tasks.
 
 ## Supplementary Materials
 
