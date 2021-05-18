@@ -58,3 +58,14 @@ This question is to gain any additional thoughts the user may have that we might
 
 
 ## Supplementary Materials
+
+### Usability Protocol
+[Usability Protocol PDF](<./Usability Test Protocol_ Task Masters.pdf>)
+
+### Spreadsheet
+[Link to our Spreadsheet](https://docs.google.com/spreadsheets/d/1qmN8ZJPnkbqCGjyDKQCvIJ0V3jugID-rqRJrAHkMX2w/edit?usp=sharing)
+
+### Prototype
+
+
+
