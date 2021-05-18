@@ -33,7 +33,7 @@ The problem space is that task and time management is difficult for a lot of peo
 # Phase 3: Usability Evaluation
 
 * Executive Summary of work,
-* protocol with justifications,
+* protocol with explanations,
 * and a final prototype
 
 [Full phase 3 report](phase3/)
