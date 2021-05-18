@@ -4,12 +4,6 @@ Group Members: Felicia Cruz, Joseph Macam, and Anthony Brackett
 
 Project: Task Management System
 
-## Executive Summary
-
-* We designed a protocol to use for our our usabilty test.
-* We created a spreadsheet that we will use to store data collected during our usability test.
-* We converted our wireframe into an interactive prototype using Adobe XD.
-
 ## Protocol Explanation
 
 ### Background
