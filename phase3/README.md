@@ -55,7 +55,7 @@ For this Usability Test study, our goals are to gauge the efficiency and effecti
 [Usability Protocol PDF](<./Usability Test Protocol_ Task Masters.pdf>)
 
 ### Spreadsheet
-[Link to our Spreadsheet](https://docs.google.com/spreadsheets/d/1qmN8ZJPnkbqCGjyDKQCvIJ0V3jugID-rqRJrAHkMX2w/edit?usp=sharing)
+[Spreadsheet](<./Task Masters Usability Test - Data.xlsx>)
 
 ### Prototype
 [Adobe XD Prototype](https://xd.adobe.com/view/1db9ead2-34be-4b91-ba7c-0afac8078824-48ea/?fullscreen&hints=off)
