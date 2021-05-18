@@ -4,7 +4,7 @@ The problem space is that task and time management is difficult for a lot of peo
 
 ## Team Members
 
-* **[Felicia Cruz](https://usabilityengineering.github.io/ux-portfolio-FeliciaCruz-24/)** - Worked on final protype, helped with protocol, protocol explanations
+* **[Felicia Cruz](https://usabilityengineering.github.io/ux-portfolio-FeliciaCruz-24/)** - Worked on final prototype, helped with protocol, protocol explanations
 * **Anthony Brackett** - Concept, wireframe, and prototype drafting 
 * **Joseph Macam** - Wireframe drafting, Adobe XD Prototype drafting 
 
