@@ -1,4 +1,4 @@
-## Phase III: Usability Evaluation
+# Phase III: Usability Evaluation
 
 Group Members: Felicia Cruz, Joseph Macam, and Anthony Brackett
 
