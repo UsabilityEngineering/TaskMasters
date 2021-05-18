@@ -53,9 +53,7 @@ This question will gain information about what the participant thinks of specifi
 This question is to gain any additional thoughts the user may have that we might not have covered during the evaluation.
 
 ## Overall Approach of Study
-
-
-
+*Coming Soon*
 
 ## Supplementary Materials
 
@@ -66,6 +64,7 @@ This question is to gain any additional thoughts the user may have that we might
 [Link to our Spreadsheet](https://docs.google.com/spreadsheets/d/1qmN8ZJPnkbqCGjyDKQCvIJ0V3jugID-rqRJrAHkMX2w/edit?usp=sharing)
 
 ### Prototype
+*Coming Soon*
 
 
 
