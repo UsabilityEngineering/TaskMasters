@@ -40,5 +40,6 @@ The problem space is that task and time management is difficult for a lot of peo
 * We designed a protocol to use for our our usabilty test.
 * We created a spreadsheet that we will use to store data collected during our usability test.
 * We converted our wireframe into an interactive prototype using Adobe XD.
+* We ran a pilot Usability Test to test run our Usability Test Protocol
 
 [Full phase 3 report](phase3/)
