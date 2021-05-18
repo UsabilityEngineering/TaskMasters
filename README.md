@@ -16,9 +16,11 @@ The problem space is that task and time management is difficult for a lot of peo
 
 # Phase 1: Requirements Gathering
 
-* Executive Summary of methods,
-* data gathered,
-* and most important outcomes
+## Executive Summary
+
+* Researched into methods of data collection and decided on online survey and contextual inquiry.
+* Prepared an online survey and questionaire to determine what is important to the user for our design.
+* Gathered information using our online survey and contextual inquiry on participants
 
 [Full phase 1 report](phase1/)
 
