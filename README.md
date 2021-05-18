@@ -5,8 +5,8 @@ The problem space is that task and time management is difficult for a lot of peo
 ## Team Members
 
 * **[Felicia Cruz](https://usabilityengineering.github.io/ux-portfolio-FeliciaCruz-24/)** - Worked on final prototype, helped with protocol, protocol explanations
-* **[Anthony Brackett](https://usabilityengineering.github.io/ux-portfolio-Brackett1/)** - Concept, wireframe, and prototype drafting 
-* **[Joseph Macam](https://usabilityengineering.github.io/ux-portfolio-jdmacam/)** - Wireframe drafting, Adobe XD Prototype drafting, Usability Test notetaking
+* **[Anthony Brackett](https://usabilityengineering.github.io/ux-portfolio-Brackett1/)** - Concept, wireframe, and prototype drafting, spreadsheet design, moderated pilot test 
+* **[Joseph Macam](https://usabilityengineering.github.io/ux-portfolio-jdmacam/)** - Wireframe drafting, Adobe XD Prototype drafting 
 
 # User-Centered Design Artifacts
 
