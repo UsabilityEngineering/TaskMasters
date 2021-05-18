@@ -24,6 +24,8 @@ The problem space is that task and time management is difficult for a lot of peo
 
 # Phase 2: Interaction Design
 
+## Executive Summary
+
 * We took the data and information gathered from Phase 1 and used them as a framework for creating our wireframe.
 * Using the wireframe, we began development of the interactive prototype using Adobe XD.
 
